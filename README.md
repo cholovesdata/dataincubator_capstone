@@ -1,4 +1,4 @@
-# dataincubator_capstone
+# Emotion expression across cultures in online settings
 
 Method
 Procedure
